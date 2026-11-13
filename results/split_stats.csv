@@ -1,0 +1,9 @@
+режим,воркер,зображень,Araneae,Coleoptera,Diptera,Hemiptera,Hymenoptera,Lepidoptera,Odonata
+A_equal_balanced,0,200,29,29,29,29,28,28,28
+A_equal_balanced,1,200,29,29,29,29,28,28,28
+B_unequal_balanced,0,280,40,40,40,40,40,40,40
+B_unequal_balanced,1,120,18,17,17,17,17,17,17
+C_unequal_imbalanced,0,280,115,69,42,25,15,9,5
+C_unequal_imbalanced,1,120,2,4,6,11,18,30,49
+D_missing_classes,0,200,0,0,40,40,40,40,40
+D_missing_classes,1,200,40,40,0,0,40,40,40

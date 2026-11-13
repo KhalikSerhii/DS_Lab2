@@ -1,0 +1,13 @@
+режим,стратегія,mAP50,mAP50:95,train_loss,"час, с"
+A_equal_balanced,FedAdam,0.3699,0.1576,1.0985,41.7
+A_equal_balanced,FedAvg,0.3952,0.1652,1.0789,43.7
+A_equal_balanced,FedProx,0.3764,0.1677,1.0831,42.1
+B_unequal_balanced,FedAdam,0.4049,0.1639,1.0974,41.9
+B_unequal_balanced,FedAvg,0.3826,0.1738,1.0607,40.8
+B_unequal_balanced,FedProx,0.3897,0.1935,1.0454,41.9
+C_unequal_imbalanced,FedAdam,0.3231,0.1375,1.0897,41.8
+C_unequal_imbalanced,FedAvg,0.3254,0.1521,1.0578,41.7
+C_unequal_imbalanced,FedProx,0.3115,0.1557,1.0669,41.5
+D_missing_classes,FedAdam,0.3149,0.145,0.9725,41.6
+D_missing_classes,FedAvg,0.3274,0.1409,1.002,41.3
+D_missing_classes,FedProx,0.3359,0.1433,1.0005,41.9
